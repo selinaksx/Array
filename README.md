@@ -23,6 +23,7 @@ No. Absen: 32
 ![ScreenShot] (https://github.com/xjoliez/Array/blob/master/praktikum1.PNG "")
 ![ScreenShot] (https://github.com/xjoliez/Array/blob/master/praktikum12.PNG "")
 ![ScreenShot] (https://github.com/xjoliez/Array/blob/master/praktikum13.PNG "")
+##Penjelasan Program
 Nilai bilangan (1-10) disimpan pada int DataArray. Pada awal program dijalankan, terdapat input dialog yang akan diinputkan bilangan yang ingin dicari, 
 setelah itu nilai yang sudah dimasukkan disimpan dalam variabel NilaiX, lalu program akan menjalankan looping untuk
 mencari bilangan, jika ada maka boolean ketemu bernilai true maka akan muncul 'Data ditemukan dalam elemen ke- ...'
